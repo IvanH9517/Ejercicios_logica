@@ -1,0 +1,49 @@
+////////////////////////////////////////////////
+1. Dada una matriz de números enteros, conserva un puntaje total en función de los siguiente:
+    1. Suma 1 punto por cada número par de la matriz
+    2. Suma 3 puntos por cada número impar de la matriz, excepto el número "5"
+    3. Suma 5 puntos cada vez que aparezca el número "5" en la matriz
+
+    Ten en cuenta que el 0 se considera par.
+Ejemplos:
+
+Entrada:[1,2,3,4,5]
+Salida: 13
+
+Entrada:[17,19,21]
+Salida: 9
+
+Entrada:[5,5,5]
+Salida: 15
+
+//////////////////////////////////////////////////
+2.Contar cadena de caracteres
+
+Ejemplo:
+
+Entrada: "Hola mundo"
+Salida: 10
+
+//////////////////////////////////////////////////
+3.Devolver una cantidad especifica de caracteres de una cadena de texto
+
+Ejemplo:
+
+Entrada: "Hola mundo", 4
+Salida: Hola
+
+//////////////////////////////////////////////////
+4. función que devuelva x veces una cadena de texto
+
+Ejemplo:
+
+Entrada: "Hola mundo ", 3
+Salida: Hola mundo Hola mundo Hola mundo 
+
+///////////////////////////////////////////////////
+5. dada una cadena de caracteres, devolver un array con dicha cadena separada por cierto caracteres
+
+Ejemplo:
+
+Entrada: ("hola que tal",",")
+Salida: ("Hola,que,tal")
